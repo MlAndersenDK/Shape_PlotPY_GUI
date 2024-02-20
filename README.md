@@ -43,8 +43,10 @@ Use the reset botton to reset values and call and empty plot.
 #Apply the build-in metric conversion:
 Use the drop-down menu besides the entry widget, to choose unit [m2,km2,ha], enter number in the widget and HIT ENTER, the engine with convert it to hectares, and update the slider value. To call the new plot; hit Update.
 
-<img width="374" alt="Screenshot 2024-02-20 at 11 52 40 AM" src="https://github.com/MlAndersenDK/Shape_PlotPY_GUI/assets/125737851/56631c74-cc44-4d32-934a-4b94e742a46a">
 <img width="399" alt="choose_metrics" src="https://github.com/MlAndersenDK/Shape_PlotPY_GUI/assets/125737851/3913bb71-17aa-4aec-938a-afff18815861">
+
+<img width="374" alt="Screenshot 2024-02-20 at 11 52 40 AM" src="https://github.com/MlAndersenDK/Shape_PlotPY_GUI/assets/125737851/56631c74-cc44-4d32-934a-4b94e742a46a">
+
 <img width="1440" alt="conversion_update" src="https://github.com/MlAndersenDK/Shape_PlotPY_GUI/assets/125737851/977f68b3-c3ad-437a-a20a-23a332193547">
 
 
